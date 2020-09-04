@@ -3,11 +3,17 @@
 
 flask
 micro 웹 프레임 워크
+
 필요한 것만 제공하고 가벼운 느낌
+
 flask의 단점? 따로 필요한 기능들을 pip로 인스톨 해야댐.
+
 beginner 추천
+
 Django에 비해서 가벼운 느낌
+
 가볍지만 강력함
+
 
 flask 구조
 
