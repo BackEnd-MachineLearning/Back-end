@@ -18,13 +18,19 @@ Django에 비해서 가벼운 느낌
 flask 구조
 
 pip install flask 로 인스톨
+
 그런데 파이썬에 기본적으로 있는듯하다
 
 /home/user/Projects/flask-tutorial
+
 ├── flaskr/
+
 │   ├── __init__.py
+
 │   ├── db.py
+
 │   ├── schema.sql
+
 │   ├── auth.py
 │   ├── blog.py
 │   ├── templates/
